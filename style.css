@@ -1,0 +1,93 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    /* display:flex; */
+  }
+  
+  .dice {
+    text-align: center;
+     display:inline-block;
+     margin:90px;
+     
+  }
+  
+  body {
+    background-image: url("./dice3.jpg");
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-blend-mode: luminosity;
+  }
+  
+  h1 {
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 80px;
+    color: whitesmoke;
+  }
+  
+  p {
+    /* font-size: 10rem; */
+    color: whitesmoke;
+    font-family: 'Indie Flower', cursive;
+    /* width: 50%; */
+    /* float: left; */
+    /* text-align:justify; */
+    font-size: 40px;
+    font-weight: 90;
+    text-shadow: 5px 0 #232931;
+
+  }
+  
+    img {
+    width: 80px;
+    display: inline-block;
+  }
+
+  .button{
+    width: 20%;
+    margin: auto;
+    background-color: transparent;
+    padding-top: 20px 0;
+    font-size: 20px 0 ;
+    border-radius: 5px;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    font-style: italic;
+    font-family: 'Indie Flower' , cursive;
+    font-weight: 1000;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    }
+
+  .roll{
+    width: 20%;
+    margin: auto;
+    background-color: transparent;
+    padding: 20px 0;
+    font-size: 25px;
+    border-radius: 5px;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    cursor: pointer;
+    font-style: italic;
+    font-family: 'Indie Flower' , cursive;
+    font-weight: 1000;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
